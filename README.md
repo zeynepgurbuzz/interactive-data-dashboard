@@ -28,7 +28,7 @@ The application is structured into modular components:
 
 1.  Clone the repository:
     ```bash
-    https://github.com/zeynepgurbuzz/interactive-data-dashboard.git
+    git clone https://github.com/zeynepgurbuzz/interactive-data-dashboard.git
     ```
 2.  Install dependencies:
     ```bash
