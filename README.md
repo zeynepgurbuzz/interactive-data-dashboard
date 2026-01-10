@@ -36,7 +36,7 @@ The application is structured into modular components:
     ```
 3.  Run the application:
     ```bash
-    python main.py
+    python dashboard.py
     ```
 
 ---
